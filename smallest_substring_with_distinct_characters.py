@@ -9,7 +9,7 @@ def smallestSubString(strr):
 			dist_char.append(i)
 	dist_count=len(dist_char)
 	#print(dist_char,dist_count)
-	
+	starting_index=0
 	char_count={}
 	count = 0
 	start = 0

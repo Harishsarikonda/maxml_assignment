@@ -1,4 +1,4 @@
-# maxml_assignment
+# maximl_assignment
 
 
 smallestSubString function returns both the smallest sub string and the length of it.
